@@ -131,6 +131,18 @@ Members of the Club Executive are by appointment only, except when the current e
 If an Executive Role cannot be filled by appointment, an announcement will be made at a general meeting advertising the open positions. Candidates may apply by email, at the discretion of the current Club Executive.
 If there are more qualified candidates than open roles, the current Executive may vote --- with a quorum of 50% of filled Executive roles --- to decide which candidate(s) will fulfill the open role(s).
 
+# Meetings
+
+ i. General meetings
+
+    - Must be held regularly (at least bi-weekly) through each semester of operation
+    - Are operated in accordance to the GCC General Meeting Policy
+
+ii. Executive meetings
+
+    - Must occur at least once per semester; other meetings may be held as needed
+    - Are operated in accordance to the GCC Executive Meeting Policy
+
 # Financial Procedures
 
   i. A budget will be presented to the Executive at the beginning of each semester, and must be approved by majority vote with a quorum of 50% of filled Executive roles.
