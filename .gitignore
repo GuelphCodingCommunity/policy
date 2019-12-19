@@ -1,0 +1,9 @@
+*.sw[a-p]
+~*
+
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+*.tex
