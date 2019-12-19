@@ -14,6 +14,40 @@ We believe that we learn best from our peers, and want experienced students to h
 Learn more at <https://socis.ca/gcc>
 
 
+## What's in this repository?
+
+This repository contains all the documents pertaining to governance of the Guelph Coding Community, including our:
+
+- Constitution
+  + Club description
+  + Governing procedures and structure
+  + Financial procedures
+  + Entire history of amendments (by nature of version control)
+- Policy documents
+  + Meeting formats
+  + Committee descriptions
+  + GitHub organization procedures
+- Code of conduct
+
+These documents are maintained as Markdown files and may be compiled to PDFs via [`pandoc`](https://pandoc.org) and LaTeX.
+
+```sh
+pandoc src/$DOCUMENT.md -o doc/$DOCUMENT.pdf
+```
+
+## Current Executive
+
+The executive for the Fall 2019 and Winter 2020 semesters are:
+
+ - Keefer Rourke
+ - Tony Trinh
+ - Marshall Asch
+ - Isaac Wismer
+ - Dema Abu Adas
+ - Nathan Laundry
+ - Zaza Hashmi
+ - Saqif Abrar
+
 ## Contact
 
 Reach out to us at <exec@gcc.socis.ca>!
