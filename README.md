@@ -19,10 +19,10 @@ Learn more at <https://socis.ca/gcc>
 This repository contains all the documents pertaining to governance of the Guelph Coding Community, including our:
 
 - Constitution
-  + Club description
   + Governing procedures and structure
   + Financial procedures
   + Entire history of amendments (by nature of version control)
+- Club description
 - Policy documents
   + Meeting formats
   + Committee descriptions
@@ -37,16 +37,7 @@ pandoc src/$DOCUMENT.md -o doc/$DOCUMENT.pdf
 
 ## Current Executive
 
-The executive for the Fall 2019 and Winter 2020 semesters are:
-
- - Keefer Rourke
- - Tony Trinh
- - Marshall Asch
- - Isaac Wismer
- - Dema Abu Adas
- - Nathan Laundry
- - Zaza Hashmi
- - Saqif Abrar
+See the [Club Description](doc/club-description.pdf).
 
 ## Contact
 
