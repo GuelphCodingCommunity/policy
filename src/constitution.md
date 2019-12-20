@@ -129,7 +129,7 @@ Each committee is governed by a corresponding Committee Policy Document, maintai
 
 Members of the Club Executive are by appointment only, except when the current executive cannot agree on qualified candidates or when there is no qualified candidate for a role.
 If an Executive Role cannot be filled by appointment, an announcement will be made at a general meeting advertising the open positions. Candidates may apply by email, at the discretion of the current Club Executive.
-If there are more qualified candidates than open roles, the current Executive may vote --- with a quorum of 50% of filled Executive roles --- to decide which candidate(s) will fulfill the open role(s).
+If there are more qualified candidates than open roles, the current Executive may vote by simple majority --- with a quorum of 50% of filled Executive roles --- to decide which candidate(s) will fulfill the open role(s).
 
 # Meetings
 
@@ -184,7 +184,8 @@ Committee Policy Document
 # Constitutional Review
 
 The Constitution (this document) shall be reviewed by the President in advance of any time the club needs to be accredited.
-All proposed changes to the club Constitution shall be brought before the Club Executive for review, with a vote to pass by a majority vote.
+All proposed changes to the club Constitution shall be brought before the Club Executive for review.
+Changes shall be passed by simple majority within the executive, with a quorum of at least 2/3 of the filled Executive body.
 
 # Policy Review
 
