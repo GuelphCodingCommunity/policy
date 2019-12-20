@@ -41,10 +41,7 @@ The committee's goals are as follows:
 
 # Membership
 
-This committee shall be headed by a member of the executive, and consist
-of at least two other appointed members from the Executive or regular
-club members.
+This committee shall be headed by a member of the executive, and consist of at least two other appointed members from the Executive or regular club members.
 Members seek to fulfil the committee goals.
 
-Open positions on this committee should be advertised at the beginning
-of the Fall semester during the first general meeting.
+Open positions on this committee should be advertised at the beginning of the Fall semester during the first general meeting.

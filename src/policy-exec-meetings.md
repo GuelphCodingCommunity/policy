@@ -21,19 +21,19 @@ header-includes:
 
 # Meeting Guidelines
 
-1. Executive meetings must be announced by the GCC President at least one (1) week in advance.
-2. Meetings must have agenda, which is shared beforehand.
-3. Meetings must have a quorum of at least 50% of filled Executive positions to pass official matters.
-4. Meetings may be held in person, or via video call.
-5. All meetings must have recorded minutes.
+  i. Executive meetings must be announced by the GCC President at least one (1) week in advance.
+ ii. Meetings must have agenda, which is shared beforehand.
+iii. Meetings must have a quorum of at least 50% of filled Executive positions to pass official matters.
+ iv. Meetings may be held in person, or via video call.
+  v. All meetings must have recorded minutes.
 
 
 # Meeting Format
 
-1. Record attendance.
-2. Approve agenda.
-3. Discuss each agenda item in sequence.
-4. Create and assign action items.
+  i. Record attendance.
+ ii. Approve agenda.
+iii. Discuss each agenda item in sequence.
+ iv. Create and assign action items.
 
 # Meeting Attendance
 

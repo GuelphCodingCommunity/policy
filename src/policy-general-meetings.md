@@ -21,12 +21,12 @@ header-includes:
 
 # Meeting Guidelines
 
-1. Meetings must be advertised at least 4 days in advance.
-2. The topic of the meeting, and any extra requirements of attendees should be shared beforehand.
-3. Meetings must be held in person.
-4. Student and/or guest presenters should be contacted prior to the meeting to review materials and ensure that they are appropriate for the audience of students anticapted to attend.
-5. A quick ice breaker activity is encouraged before each meeting to get students in a mindset to be relaxed and involved.
-6. After the meeting, presentation materials should be kept on file by the GCC Executive, if permitted by the creator of the materials.
+  i. Meetings must be advertised at least 4 days in advance.
+ ii. The topic of the meeting, and any extra requirements of attendees should be shared beforehand.
+iii. Meetings must be held in person.
+ iv. Student and/or guest presenters should be contacted prior to the meeting to review materials and ensure that they are appropriate for the audience of students anticapted to attend.
+  v. A quick ice breaker activity is encouraged before each meeting to get students in a mindset to be relaxed and involved.
+ vi. After the meeting, presentation materials should be kept on file by the GCC Executive, if permitted by the creator of the materials.
 
 # Meeting Format
 

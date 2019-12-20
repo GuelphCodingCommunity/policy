@@ -35,10 +35,10 @@ The committee's goals are as follows:
 
 # Guidelines
 
-1. The Challenge Committee should be familiar with CS Games style challenges, and Capture the Flag events (in the context of security and hacking).
-2. Challenges should typically be designed in a language-agnostic fashion, unless it is prohibitive to do so (e.g. reverse engineering challenges almost always require low-level languages).
-3. Challenges should be not last more than two (2) hours.
-4. Challenges should live in their own distinct GitHub repositories, be documented in Markdown, and have corresponding (private) solutions kept somewhere on file accessible by GCC Executive members.
+  i. The Challenge Committee should be familiar with CS Games style challenges, and Capture the Flag events (in the context of security and hacking).
+ ii. Challenges should typically be designed in a language-agnostic fashion, unless it is prohibitive to do so (e.g. reverse engineering challenges almost always require low-level languages).
+iii. Challenges should be not last more than two (2) hours.
+ iv. Challenges should live in their own distinct GitHub repositories, be documented in Markdown, and have corresponding (private) solutions kept somewhere on file accessible by GCC Executive members.
 
 # Membership
 
