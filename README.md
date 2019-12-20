@@ -31,9 +31,7 @@ This repository contains all the documents pertaining to governance of the Guelp
 
 These documents are maintained as Markdown files and may be compiled to PDFs via [`pandoc`](https://pandoc.org) and LaTeX.
 
-```sh
-pandoc src/$DOCUMENT.md -o doc/$DOCUMENT.pdf
-```
+To compile all the documents, install `pandoc` and a LaTeX distribution, then use the provided Makefile to generate all the PDFs.
 
 ## Current Executive
 
