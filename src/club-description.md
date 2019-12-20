@@ -35,7 +35,7 @@ Learn more at <https://socis.ca/gcc>
  - Tony Trinh (Treasurer)
  - Nathan Laundry (Directory of Sponsorship)
  - Zaza Hashmi (Director of Advertising and Outreach)
- - Marshall Asch
+ - Marshall Asch (Executive at Large)
  - Isaac Wismer
  - Dema Abu Adas
  - Saqif Abrar
