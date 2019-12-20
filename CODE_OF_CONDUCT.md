@@ -4,7 +4,7 @@ In this policy, the Guelph Coding Community (GCC) refers to the student organiza
 GCC is dedicated to providing a safe, harassment-free space for students to share, explore, collaborate, and learn with new technologies.
 
 In addition to the expectations imposed by the University of Guelph, SOCIS, CEPSSC, and CSA, this code of conduct applies to all events and meetings run by GCC.
-Violation of this policy may result in sanctions or prohibition of attendance from future GCC events.
+Violation of this policy may result in sanctions or consequences, as described below.
 
 This code of conduct is to be enforced by the governing executive body of the club.
 If you have a complaint about the conduct of any members of the club, or how a specific situation has been handled, please reach out via email to <exec@gcc.socis.ca>.
@@ -14,7 +14,7 @@ If you have a complaint about the conduct of any members of the club, or how a s
 ## Disclaimer
 
 At times, GCC presentations may bring up controversial issues such as governance of open-source projects, toxicity with tech communities, or ethics in technology.
-We may also present skills and technologies which may used adversarially.
+We may also present skills and technologies which may be used adversarially.
 GCC absolves responsibility for any actions taken which are as a direct or indirect consequence of knowledge or content presented at GCC meetings.
 
 ## Guidelines for discussion
@@ -28,12 +28,12 @@ While avoiding echo-chambers and one-sided discussion, we expect that event part
 
 ## Unwelcome behaviour
 
-1. Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, national origin, ethnic origin, nationality, immigration status, language, religion or lack thereof, or other identity marker.
+1. Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, national origin, ethnic origin, nationality, immigration status, language, religion or lack thereof, or other identity markers.
    This includes anti-Indigenous/Nativeness and anti-Blackness.
-2. Deliberate misgendering or use of “dead” or rejected names.
-3. Unwelcome comments regarding a person’s lifestyle choices and practices, participation (or lack thereof) in open-source communities, etc.
+2. Deliberate misgendering or use of "dead" or rejected names.
+3. Unwelcome comments regarding a person's lifestyle choices and practices, participation (or lack thereof) in open-source communities, etc.
 4. Deliberate intimidation, or harassment towards presenters or workshop attendees.
-5. Threats of violence, or incitement of violence towards any individual.
+5. Threats of violence, or incitement of violence towards any individual or group.
 6. Photography or recording without permission of event participants.
 7. Sustained disruption of discussion.
 8. Patronizing behavior targeted at presenters or event participants.
@@ -43,5 +43,6 @@ While avoiding echo-chambers and one-sided discussion, we expect that event part
 
 Depending on the severity of the offense, one of the following may occur.
 
- - The offender may receive a temporary ban from club activities.
- - Campus police may be contacted.
+ - The offender may receive a temporary ban from club activities
+ - The case may be escalated to higher levels of college government, or to University administration
+ - Campus police may be contacted
