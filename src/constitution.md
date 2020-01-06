@@ -29,7 +29,7 @@ This document is the constitution of the "Guelph Coding Community" (GCC).
 
 The purpose of this club is to:
 
-  i. Present, collaborate, and share technical skills which are not typically covered by Computer Science and Software Engineering curricula
+  i. Present, collaborate, and share technical skills which are not typically covered by Computer Science and Software Engineering curricula.
  ii. Facilitate and run on-campus technical competitions.
 iii. Prepare students with the necessary skills to be competitive at the annual CS Games.
  iv. Advocate for and support student-generated content in the form of:
@@ -106,6 +106,8 @@ iii. **Director of Sponsorship**
 
  vi. **Executive at Large**
 
+     Note: There may be multiple executive at large.
+
      Responsibilities:
 
       - Collaborate with external and internal club groups
@@ -113,6 +115,8 @@ iii. **Director of Sponsorship**
       - Support other Executive in decision making, administration, and other tasks
 
 vii. **Committee Chairs**
+
+     Note: For each Committee, there shall be Chair. The chair may be fulfilled the same person as any other Executive role.
 
      Responsibilities:
 
@@ -127,7 +131,7 @@ Each committee is governed by a corresponding Committee Policy Document, maintai
 
 ## Appointments and Elections
 
-Members of the Club Executive are by appointment only, except when the current executive cannot agree on qualified candidates or when there is no qualified candidate for a role.
+Members of the Club Executive are by appointment only, except when the current executive cannot agree on qualified candidates by simple majority vote or when there is no qualified candidate for a role.
 If an Executive Role cannot be filled by appointment, an announcement will be made at a general meeting advertising the open positions. Candidates may apply by email, at the discretion of the current Club Executive.
 If there are more qualified candidates than open roles, the current Executive may vote by simple majority --- with a quorum of 50% of filled Executive roles --- to decide which candidate(s) will fulfill the open role(s).
 

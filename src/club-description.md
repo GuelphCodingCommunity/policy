@@ -19,7 +19,7 @@ header-includes:
  - \setlist[itemize,2]{label=$\circ$}
 ...
 
-The Guelph Coding Community (GCC) is a student organization focused on providing students with valuable, hands-on, extracurricular tech skills which cannot normally be acquired through coursework.
+The Guelph Coding Community (GCC) is a student organization focused on providing students with valuable, hands-on, technical skills, which are not normally presented in course material.
 Founded in 2013, GCC facilitates student-run workshops, tutorials, demos, and presentations for students of all backgrounds and skill-levels.
 
 GCC workshops are designed by passionate students and guest speakers to teach all manner of new skills.
