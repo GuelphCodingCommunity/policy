@@ -14,6 +14,29 @@ We believe that we learn best from our peers, and want experienced students to h
 Learn more at <https://socis.ca/gcc>
 
 
+## What's in this repository?
+
+This repository contains all the documents pertaining to governance of the Guelph Coding Community, including our:
+
+- Constitution
+  + Governing procedures and structure
+  + Financial procedures
+  + Entire history of amendments (by nature of version control)
+- Club description
+- Policy documents
+  + Meeting formats
+  + Committee descriptions
+  + GitHub organization procedures
+- Code of conduct
+
+These documents are maintained as Markdown files and may be compiled to PDFs via [`pandoc`](https://pandoc.org) and LaTeX.
+
+To compile all the documents, install `pandoc` and a LaTeX distribution, then use the provided Makefile to generate all the PDFs.
+
+## Current Executive
+
+See the [Club Description](doc/club-description.pdf).
+
 ## Contact
 
 Reach out to us at <exec@gcc.socis.ca>!
