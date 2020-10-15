@@ -31,11 +31,10 @@ Learn more at <https://socis.ca/gcc>
 
 # Current Executive
 
- - Keefer Rourke (President)
- - Tony Trinh (Treasurer)
- - Nathan Laundry (Directory of Sponsorship)
+ - Nathan Laundry (President)
+ - Saqif Abrar (Treasurer)
+ - Tinson Wang (Directory of Sponsorship)
  - Zaza Hashmi (Director of Advertising and Outreach)
- - Saqif Abrar (Director of Events)
- - Marshall Asch (Executive at Large)
+ - Sooraj Modi (Director of Events)
  - Isaac Wismer (Executive at Large)
- - Dema Abu Adas (Chair of Challenge Committee)
+ - Shawn Kaplan (Executie at Large)
