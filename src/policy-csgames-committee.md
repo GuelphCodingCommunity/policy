@@ -1,22 +1,19 @@
 ---
-lang: en-CA
-title: Guelph Coding Community
-subtitle: Challenge Committee Policy
-date: Not in effect --- pending changes to SOCIS constitution
-
+title: "Guelph Coding Community"
 documentclass: scrartcl
-numbersections: true
-geometry:
- - margin=1in
-
-urlcolor: blue
-fontsize: 11pt
-
+date: "Not in effect --- pending changes to SOCIS constitution"
+output: pdf_document
 header-includes:
- - \usepackage{enumitem}
- - \usepackage{amsfonts}
- - \setlist[itemize,1]{label=$\bullet$}
- - \setlist[itemize,2]{label=$\circ$}
+- \usepackage{enumitem}
+- \usepackage{amsfonts}
+- \setlist[itemize,1]{label=$\bullet$}
+- \setlist[itemize,2]{label=$\circ$}
+lang: en-CA
+numbersections: yes
+geometry: margin=1in
+subtitle: Challenge Committee Policy
+fontsize: 11pt
+urlcolor: blue
 ...
 
 # Objective
@@ -29,6 +26,10 @@ The committee's goals are as follows:
 
  - Advertise the CS Games throughout the Fall semester
  - Select two teams to attend the CS Games by the beginning of the Winter semester
+   + Each team consists of ten (10) people
+   + A GodFather may accompany them
+      + GodFather 
+      : A student who has graduated and has previously participated in CSGames.
  - Collaborate with the SOCIS Vice President External for event organization
  - Ensure that students are adequately informed of:
    + Cost to participate
@@ -45,3 +46,7 @@ This committee shall be headed by a member of the executive, and consist of at l
 Members seek to fulfil the committee goals.
 
 Open positions on this committee should be advertised at the beginning of the Fall semester during the first general meeting.
+
+
+Last Amended:
+: May 17 2021

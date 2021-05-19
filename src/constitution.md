@@ -1,22 +1,19 @@
 ---
-lang: en-CA
-title: Guelph Coding Community Club Constitution
-subtitle: (A SOCSSO Club)
-date: Effective January 2020
-
+title: "Guelph Coding Community Club Constitution"
 documentclass: scrartcl
-numbersections: true
-geometry:
- - margin=1in
-
-urlcolor: blue
-fontsize: 11pt
-
+date: "Effective January 2020"
+output: pdf_document
 header-includes:
- - \usepackage{enumitem}
- - \usepackage{amsfonts}
- - \setlist[itemize,1]{label=$\bullet$}
- - \setlist[itemize,2]{label=$\circ$}
+- \usepackage{enumitem}
+- \usepackage{amsfonts}
+- \setlist[itemize,1]{label=$\bullet$}
+- \setlist[itemize,2]{label=$\circ$}
+lang: en-CA
+numbersections: yes
+geometry: margin=1in
+subtitle: (A SOCSSO Club)
+fontsize: 11pt
+urlcolor: blue
 ...
 
 # Identity
@@ -36,6 +33,7 @@ iii. Prepare students with the necessary skills to be competitive at the annual 
      - Technical presentations
      - Open-source projects
      - Skill-enhancing workshops
+  v. Form and appoint members for the GryphHacks committee, and aid in the organization of the yearly Hackathon.
 
 ## Statement of Compliance
 
@@ -87,6 +85,7 @@ iii. **Director of Sponsorship**
       - Correspond with industry representatives
       - Invite industry representatives to campus to provide guest lectures and workshops
       - Collaborate with the School of Computer Science Co-op Coordinators to maintain industry interest in Guelph talent
+      - Collaborate with GryphHacks committee to form a liaison between the student organization and industry representatives
 
  iv. **Director of Advertising and Outreach**
 
@@ -95,7 +94,8 @@ iii. **Director of Sponsorship**
       - Visit classrooms at the beginning of each semester to promote the Club
       - Create attractive, informative digital and print advertising for each GCC event
       - Create and share a plan for advertising, including an outline of different platforms which will be used and any costs that may be incurred by these platforms
-      - Collaborate with SOCIS to ensure access to social media advertising outlets, such as GryphSlack and Instagram
+      - Collaborate with SOCIS to ensure access to social media advertising outlets, such as GryphSlack, Instagram, Twitter, LinkedIn, and various discord servers
+      - Share advertisement materials with year representatives of SOCIS, so that they may spread it amongst their peers, (Examples: Create an Instagram Groupchat to share materials to, a channel in the SOCIS discord to forward to other servers.)
 
   v. **Director of Events**
 
@@ -106,7 +106,7 @@ iii. **Director of Sponsorship**
 
  vi. **Executive at Large**
 
-     Note: There may be multiple executive at large.
+     Note: There may be multiple executives at large.
 
      Responsibilities:
 
@@ -116,7 +116,7 @@ iii. **Director of Sponsorship**
 
 vii. **Committee Chairs**
 
-     Note: For each Committee, there shall be Chair. The chair may be fulfilled the same person as any other Executive role.
+     Note: For each Committee, there shall be at least one (1) Chair. The chair may be filled by the same person as any other Executive role.
 
      Responsibilities:
 
@@ -149,9 +149,27 @@ ii. Executive meetings
 
 # Financial Procedures
 
-  i. A budget will be presented to the Executive at the beginning of each semester, and must be approved by majority vote with a quorum of 50% of filled Executive roles.
- ii. Once internally approved, Club Budgets will be drafted, reviewed, and submitted to SOCIS at the beginning of each semester in accordance to the SOCSSO Policy.
-iii. Receipts of all purchases, bank statements, and/or transactions through each semester must be kept on file in case of audit by the SOCIS Vice President of Finances.
+## Budgets, Expenditures and Income
+
+   i. A budget will be presented to the Executive at the beginning of each semester, and must be approved by majority vote with a quorum of 50% of filled Executive roles.
+  ii. Once internally approved, Club Budgets will be drafted, reviewed, and submitted to SOCIS at the beginning of each semester in accordance with the SOCSSO Policy.
+ iii. Receipts of all purchases, bank statements, and/or transactions through each semester must be kept on file in case of audit by the SOCIS Vice President of Finances.
+  iv. All financial decisions are made with the interests of all GCC members in mind.
+   v. The GCC Budget shall be drafted by the Director of Finance and approved by the rest of the committee before being presented to SOCIS executives.
+  vi. Expenditures by GCC must fall within the approved budget provided by SOCIS.
+ vii. GCC funds cannot be used for SOCS, CEPS, or University of Guelph outreach and highschool recruitment events.
+viii. All expenditures and income by GCC must be recorded. For each transaction, records must include but are not limited to:
+     
+      - Date of transaction
+      - Amount of transaction
+      - Signees
+      - Payees
+      - Description of transaction
+
+## Bank Account
+
+The GCC President and Director of Finance shall act as the signing members on any bank accounts in the name of GCC, with the Director of Finance being the primary signing member. As long as no more than one executive member objects, another GCC member may become a signing member on one or more bank accounts in the name of GCC for a period of no longer than six months' time.
+
 
 
 # Definitions
@@ -180,9 +198,13 @@ GitHub Organization
 
 : The organization of code repositories found at <https://github.com/guelphcodingcommunity> within which this document may be found.
 
-Committee Policy Document
+CSGames Committee Policy Document
 
-: A brief document outlining the purpose and operations of a committee within the Guelph Coding Community.
+: A brief document outlining the purpose and operations of the CSGames committee within the Guelph Coding Community.
+
+GryphHacks Committee Policy Document
+
+: A thorough and extensive document outlining the purpose and operations of the GryphHacks Committee under the Guelph Coding Community.
 
 
 # Constitutional Review
@@ -194,3 +216,7 @@ Changes shall be passed by simple majority within the executive, with a quorum o
 # Policy Review
 
 Policy documents may be reviewed and amended as necessary, and require approval by the President and at least two other current Executive members.
+
+
+Last Amended:
+: May 17 2021
