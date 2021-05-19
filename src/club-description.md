@@ -2,7 +2,7 @@
 lang: en-CA
 title: Guelph Coding Community
 subtitle: Club description
-date: "Last updated: September 2019"
+date: "Last updated: May 2021"
 
 documentclass: scrartcl
 numbersections: false
@@ -31,11 +31,10 @@ Learn more at <https://socis.ca/gcc>
 
 # Current Executive
 
- - Keefer Rourke (President)
- - Tony Trinh (Treasurer)
- - Nathan Laundry (Directory of Sponsorship)
- - Zaza Hashmi (Director of Advertising and Outreach)
- - Saqif Abrar (Director of Events)
- - Marshall Asch (Executive at Large)
- - Isaac Wismer (Executive at Large)
- - Dema Abu Adas (Chair of Challenge Committee)
+ - Zaza Hashmi (President)
+ - Tehreem Nazar (Treasurer)
+ - Rehan Mohideen (Director of Advertising and Outreach)
+ - Rithik Chaudhary  (Chair of Challenge Committee)
+ - Michaela Hibbert (Director of Events)
+ - Arjun Nair (Exec at Large)
+ - Hashir Butt (Exec at Large) 

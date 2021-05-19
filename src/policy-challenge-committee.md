@@ -28,7 +28,7 @@ The Challenge Committee is tasked to create and test coding challenges for membe
 The committee's goals are as follows:
 
  - Draft at least two (2) new challenges per semester
- - Test these challenges with other members of the executive to assess clarify of instruction, difficulty levels, and time to complete
+ - Test these challenges with other members of the executive to assess clarity of instruction, difficulty levels, and time to complete
  - Identify challenges to be run for the current semester, which may include:
    + Challenges which have never been run before
    + Past challenges, which have been updated slightly but maintain the same format
@@ -37,7 +37,7 @@ The committee's goals are as follows:
 
   i. The Challenge Committee should be familiar with CS Games style challenges, and Capture the Flag events (in the context of security and hacking).
  ii. Challenges should typically be designed in a language-agnostic fashion, unless it is prohibitive to do so (e.g. reverse engineering challenges almost always require low-level languages).
-iii. Challenges should be not last more than two (2) hours.
+iii. Challenges should not last more than two (2) hours.
  iv. Challenges should live in their own distinct GitHub repositories, be documented in Markdown, and have corresponding (private) solutions kept somewhere on file accessible by GCC Executive members.
 
 # Membership
@@ -46,3 +46,7 @@ The committee shall be headed by a member of the executive, and consist of at le
 Members seek to fulfil the committee goals.
 
 Open positions on this committee should be advertised at the beginning of each semester during the first general meeting.
+
+
+Last Amended:
+: May 17 2021
